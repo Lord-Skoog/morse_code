@@ -10,11 +10,11 @@ Materials:
 
 STEP 1: Setting up the circuit
 On your  bread board make the following circuit:  
-![![[IMG_8442.jpg]]]
+(Image 2)
 Wire the "S" to GPIO pin 21
 
 
-![![[IMG_8443.jpg]]]
+(iage 2)
 Wire the "S" wire to GPIO pin 16
 
 For both wire the "G" to ground and "V" to voltage respectively 

@@ -14,7 +14,7 @@ On your  bread board make the following circuit:
 Wire the "S" to GPIO pin 21
 
 
-(iage 2)
+(image 1)
 Wire the "S" wire to GPIO pin 16
 
 For both wire the "G" to ground and "V" to voltage respectively 
